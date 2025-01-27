@@ -3,10 +3,13 @@
 ### Test Repo
 #### Test Repo
 
-I like pizza. 
+ <!-- using bold -->
+**I like pizza**. <br>
 <strong>I like pizza. </strong> <br>
 <b>I like pizza. </b> <br>
+
 <!-- using italic -->
+_I like pizza_.  <br>
 <i>I like pizza. </i> <br>
 <em>I like pizza. </em> <br>
 
